@@ -1,0 +1,793 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MSCodeworks.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MSCodeworks.Web.d06uc6hfjq.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\bg\\bg-8.webp",
+      "PackagePath": "staticwebassets\\img\\bg\\bg-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-hero-2.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-hero-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-post-1.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-post-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-post-2.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-post-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-post-3.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-post-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-post-4.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-post-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-post-square-1.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-post-square-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-post-square-2.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-post-square-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-post-square-3.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-post-square-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-post-square-4.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-post-square-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\blog\\blog-post-square-5.webp",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-post-square-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\clients\\clients-1.webp",
+      "PackagePath": "staticwebassets\\img\\clients\\clients-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\clients\\clients-2.webp",
+      "PackagePath": "staticwebassets\\img\\clients\\clients-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\clients\\clients-3.webp",
+      "PackagePath": "staticwebassets\\img\\clients\\clients-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\clients\\clients-4.webp",
+      "PackagePath": "staticwebassets\\img\\clients\\clients-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\clients\\clients-5.webp",
+      "PackagePath": "staticwebassets\\img\\clients\\clients-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\clients\\clients-6.webp",
+      "PackagePath": "staticwebassets\\img\\clients\\clients-6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\clients\\clients-7.webp",
+      "PackagePath": "staticwebassets\\img\\clients\\clients-7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\clients\\clients-8.webp",
+      "PackagePath": "staticwebassets\\img\\clients\\clients-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\cta\\cta-1.webp",
+      "PackagePath": "staticwebassets\\img\\cta\\cta-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\img\\hero-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\illustration\\illustration-10.webp",
+      "PackagePath": "staticwebassets\\img\\illustration\\illustration-10.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\logo.webp",
+      "PackagePath": "staticwebassets\\img\\logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\ms-codeworks-logo.png",
+      "PackagePath": "staticwebassets\\img\\ms-codeworks-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-f-12.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-f-12.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-f-4.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-f-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-f-5.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-f-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-f-7.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-f-7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-f-8.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-f-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-f-9.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-f-9.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-m-12.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-m-12.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-m-13.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-m-13.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-m-6.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-m-6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-m-7.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-m-7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\person\\person-m-9.webp",
+      "PackagePath": "staticwebassets\\img\\person\\person-m-9.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-1.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-10.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-10.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-3.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-4.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-7.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-8.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-9.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-9.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-portrait-1.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-portrait-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-portrait-2.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-portrait-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\portfolio\\portfolio-portrait-3.webp",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-portrait-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\projects\\BOCWWebSite.JPG",
+      "PackagePath": "staticwebassets\\img\\projects\\BOCWWebSite.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\projects\\GPMSWebSite.JPG",
+      "PackagePath": "staticwebassets\\img\\projects\\GPMSWebSite.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\projects\\IFMSWebsite.JPG",
+      "PackagePath": "staticwebassets\\img\\projects\\IFMSWebsite.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\projects\\PIRAWebsite.JPG",
+      "PackagePath": "staticwebassets\\img\\projects\\PIRAWebsite.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\projects\\PunjabStateLottery.JPG",
+      "PackagePath": "staticwebassets\\img\\projects\\PunjabStateLottery.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\projects\\VMSWebsite.JPG",
+      "PackagePath": "staticwebassets\\img\\projects\\VMSWebsite.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\services\\services-4.webp",
+      "PackagePath": "staticwebassets\\img\\services\\services-4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\steps\\steps-1.webp",
+      "PackagePath": "staticwebassets\\img\\steps\\steps-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\steps\\steps-2.webp",
+      "PackagePath": "staticwebassets\\img\\steps\\steps-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\steps\\steps-3.webp",
+      "PackagePath": "staticwebassets\\img\\steps\\steps-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\img\\why-us.png",
+      "PackagePath": "staticwebassets\\img\\why-us.png"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\resume\\Manpreet_Singh_CV.pdf",
+      "PackagePath": "staticwebassets\\resume\\Manpreet_Singh_CV.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\uploads\\CV_Manpreet_Singh.pdf",
+      "PackagePath": "staticwebassets\\uploads\\CV_Manpreet_Singh.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\uploads\\Rakhi_Sharma_ATS_Friendly_CV.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Rakhi_Sharma_ATS_Friendly_CV.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MSCodeworks.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MSCodeworks.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MSCodeworks.Web.props",
+      "PackagePath": "build\\MSCodeworks.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MSCodeworks.Web.props",
+      "PackagePath": "buildMultiTargeting\\MSCodeworks.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MSCodeworks.Web.props",
+      "PackagePath": "buildTransitive\\MSCodeworks.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

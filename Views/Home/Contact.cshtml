@@ -1,0 +1,170 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Contact Section -->
+<section id="contact" class="contact section bg-light py-5">
+
+    <!-- Section Title -->
+    <div class="container section-title text-center mb-5" data-aos="fade-up">
+        <h2 class="display-4 fw-bold text-primary">Contact Me</h2>
+        <p class="lead text-muted">
+            Feel free to get in touch. I’m here to answer your questions and discuss your projects.
+        </p>
+    </div><!-- End Section Title -->
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-5 align-items-center">
+
+            <div class="col-lg-5">
+
+                <div class="info-wrap bg-white rounded shadow-sm p-4">
+
+                    <div class="info-item d-flex align-items-start mb-4" data-aos="fade-up" data-aos-delay="200">
+                        <i class="bi bi-geo-alt-fill text-primary fs-3 me-3"></i>
+                        <div>
+                            <h5 class="fw-semibold mb-1">Address</h5>
+                            <p class="mb-0 text-secondary">Street-4, GTB Nagar, Bathinda, Punjab, India, 151001</p>
+                        </div>
+                    </div><!-- End Info Item -->
+
+                    <div class="info-item d-flex align-items-start mb-4" data-aos="fade-up" data-aos-delay="300">
+                        <i class="bi bi-telephone-fill text-primary fs-3 me-3"></i>
+                        <div>
+                            <h5 class="fw-semibold mb-1">Call Us</h5>
+                            <p class="mb-0 text-secondary">+91 98557-92076</p>
+                        </div>
+                    </div><!-- End Info Item -->
+
+                    <div class="info-item d-flex align-items-start mb-4" data-aos="fade-up" data-aos-delay="400">
+                        <i class="bi bi-envelope-fill text-primary fs-3 me-3"></i>
+                        <div>
+                            <h5 class="fw-semibold mb-1">Email Us</h5>
+                            <p class="mb-0 text-secondary">contact@mscodeworks.in</p>
+                        </div>
+                    </div><!-- End Info Item -->
+
+                    <div class="map-responsive rounded overflow-hidden mt-4 shadow-sm" style="height: 270px;">
+                        <iframe src="https://maps.google.com/maps?q=House%20No%2019347%20A%2C%20Street%20No%204%2C%20Bibi%20Wala%20Road%2C%20GTB%20Nagar%2C%20Bathinda%2C%20Punjab%2C%20India%20151001&output=embed"
+                                frameborder="0" style="border:0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-7">
+                <div class="bg-white rounded shadow-sm p-4">
+                    <form action="" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200" novalidate>
+                        <div class="row gy-4">
+
+                            <div class="col-md-6">
+                                <label for="name-field" class="form-label fw-semibold">Your Name</label>
+                                <input type="text" name="name" id="name-field" class="form-control form-control-lg" placeholder="Enter your full name" required>
+                                <div class="invalid-feedback">Please enter your name.</div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <label for="email-field" class="form-label fw-semibold">Your Email</label>
+                                <input type="email" class="form-control form-control-lg" name="email" id="email-field" placeholder="Enter your email address" required>
+                                <div class="invalid-feedback">Please enter a valid email.</div>
+                            </div>
+
+                            <div class="col-12">
+                                <label for="subject-field" class="form-label fw-semibold">Subject</label>
+                                <input type="text" class="form-control form-control-lg" name="subject" id="subject-field" placeholder="Subject of your message" required>
+                                <div class="invalid-feedback">Please enter the subject.</div>
+                            </div>
+
+                            <div class="col-12">
+                                <label for="message-field" class="form-label fw-semibold">Message</label>
+                                <textarea class="form-control form-control-lg" name="message" rows="6" id="message-field" placeholder="Write your message here..." required></textarea>
+                                <div class="invalid-feedback">Please enter your message.</div>
+                            </div>
+
+                            <div class="col-12 text-center">
+                                <div class="loading text-primary mb-2" style="display:none;">Sending message...</div>
+                                <div class="error-message text-danger mb-2" style="display:none;"></div>
+                                <div class="sent-message text-success mb-2" style="display:none;">Your message has been sent. Thank you!</div>
+
+                                <button type="submit" class="btn btn-primary btn-lg px-5 fw-semibold">Send Message</button>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+            </div><!-- End Contact Form -->
+
+        </div>
+
+    </div>
+
+</section><!-- /Contact Section -->
+
+<style>
+    /* Smooth shadow and hover effect on info items */
+    .info-item:hover {
+        background-color: #e9f5ff;
+        border-radius: 8px;
+        transition: background-color 0.3s ease;
+    }
+
+    /* Responsive iframe container */
+    .map-responsive {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+        overflow: hidden;
+    }
+
+        .map-responsive iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+</style>
+
+@section Scripts {
+    <script>
+        // Bootstrap 5 custom validation for forms
+        (function () {
+            'use strict'
+
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.querySelectorAll('.php-email-form')
+
+            // Loop over them and prevent submission if invalid
+            Array.prototype.slice.call(forms)
+                .forEach(function (form) {
+                    form.addEventListener('submit', function (event) {
+                        event.preventDefault();
+                        event.stopPropagation();
+
+                        if (!form.checkValidity()) {
+                            form.classList.add('was-validated');
+                            return;
+                        }
+
+                        // Show loading text
+                        const loading = form.querySelector('.loading');
+                        const errorMessage = form.querySelector('.error-message');
+                        const sentMessage = form.querySelector('.sent-message');
+                        loading.style.display = 'block';
+                        errorMessage.style.display = 'none';
+                        sentMessage.style.display = 'none';
+
+                        // Simulate form sending process (replace with your actual ajax)
+                        setTimeout(() => {
+                            loading.style.display = 'none';
+                            sentMessage.style.display = 'block';
+                            form.reset();
+                            form.classList.remove('was-validated');
+                        }, 2000);
+                    }, false)
+                })
+        })()
+    </script>
+}

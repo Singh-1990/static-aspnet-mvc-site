@@ -1,0 +1,69 @@
+﻿@model List<Project>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section id="portfolio" class="py-5 bg-light">
+    <div class="container">
+
+        <div class="text-center mb-5">
+            <h2 class="fw-bold">My Projects</h2>
+            <p class="text-muted">
+                Explore a range of enterprise systems, web applications, and government solutions developed and migrated to ASP.NET MVC/Core for the Punjab Government.
+            </p>
+        </div>
+
+        <!-- Filter Buttons (CV button removed) -->
+        <div class="d-flex justify-content-center flex-wrap gap-2 mb-4">
+            <button class="btn btn-outline-dark filter-btn active" data-filter="all">All</button>
+            <button class="btn btn-outline-dark filter-btn" data-filter="App">Apps</button>
+            <button class="btn btn-outline-dark filter-btn" data-filter="Web">Web</button>
+        </div>
+
+        <div class="row g-4" id="portfolio-container">
+            @foreach (var proj in Model)
+            {
+                var cardClass = "col-md-6 col-lg-4 project-item";
+
+                <div class="@cardClass" data-category="@proj.Category">
+                    <div class="card h-100 shadow-sm border-0 position-relative overflow-hidden"
+                         style="transition: transform 0.3s;">
+                        <img src="@Url.Content(proj.ImageUrl)" class="card-img-top" alt="@proj.Title"
+                             style="height: 220px; object-fit: cover; transition: transform 0.3s;" />
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">@proj.Title</h5>
+                            <p class="card-text text-muted" style="min-height: 70px;">@proj.Description</p>
+                            <a href="@proj.DetailUrl" class="btn btn-outline-primary w-100" target="_blank">Visit Website</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        document.querySelectorAll('.filter-btn').forEach(button => {
+            button.addEventListener('click', () => {
+                document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+
+                const filter = button.getAttribute('data-filter');
+                document.querySelectorAll('.project-item').forEach(item => {
+                    item.style.display = (filter === 'all' || item.getAttribute('data-category') === filter) ? 'block' : 'none';
+                });
+            });
+        });
+
+        document.querySelectorAll('.card').forEach(card => {
+            card.addEventListener('mouseenter', () => {
+                card.style.transform = 'translateY(-5px)';
+            });
+            card.addEventListener('mouseleave', () => {
+                card.style.transform = 'translateY(0)';
+            });
+        });
+    </script>
+}
