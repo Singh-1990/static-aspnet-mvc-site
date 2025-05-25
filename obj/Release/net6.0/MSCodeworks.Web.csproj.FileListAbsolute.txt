@@ -227,3 +227,4 @@ C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Release\net6.
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Release\net6.0\MSCodeworks.Web.pdb
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Release\net6.0\MSCodeworks.Web.genruntimeconfig.cache
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Release\net6.0\ref\MSCodeworks.Web.dll
+C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Release\net6.0\MSCodeworks.Web.sourcelink.json

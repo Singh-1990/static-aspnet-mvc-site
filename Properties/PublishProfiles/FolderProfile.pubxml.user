@@ -2,8 +2,8 @@
 <!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2025-05-23T11:21:08.0995468Z||;True|2025-05-23T16:06:50.7524262+05:30||;True|2025-05-23T11:44:11.2773298+05:30||;True|2025-05-17T12:58:39.6555586+05:30||;</History>
+    <_PublishTargetUrl>C:\Users\Manpreet\Downloads\MSCodeworksBuild</_PublishTargetUrl>
+    <History>False|2025-05-24T20:00:45.2987922Z||;True|2025-05-23T22:19:59.4206923+05:30||;True|2025-05-23T16:51:08.0995468+05:30||;True|2025-05-23T16:06:50.7524262+05:30||;True|2025-05-23T11:44:11.2773298+05:30||;True|2025-05-17T12:58:39.6555586+05:30||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

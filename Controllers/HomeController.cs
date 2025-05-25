@@ -1,34 +1,39 @@
+using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using MSCodeworks.Web.Models;
 
-namespace MSCodeworks.Web.Controllers;
-
-public class HomeController : Controller
+namespace MSCodeworks.Web.Controllers
 {
-    private readonly ILogger<HomeController> _logger;
+    public class HomeController : Controller
+    {
+        private readonly ILogger<HomeController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
-    {
-        _logger = logger;
-    }
+        public HomeController(ILogger<HomeController> logger)
+        {
+            _logger = logger;
+        }
 
-    public IActionResult Index()
-    {
-        return View();
-    }
+        public IActionResult Index()
+        {
+            return View();
+        }
 
-    public IActionResult About()
-    {
-        return View();
-    }
-    public IActionResult Services()
-    {
-        return View();
-    }
-    public IActionResult Projects()
-    {
-        var projects = new List<Project>
+        public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult Services()
+        {
+            return View();
+        }
+        public IActionResult Projects()
+        {
+            var projects = new List<Project>
     {
         new Project
         {
@@ -80,64 +85,64 @@ public class HomeController : Controller
         }
     };
 
-        return View(projects);
-    }
+            return View(projects);
+        }
 
 
-    public IActionResult Team()
-    {
-        return View();
-    }
-    public IActionResult Contact()
-    {
-        return View();
-    }
-
-    [HttpGet]
-    public IActionResult UploadCV()
-    {
-        return View();
-    }
-
-    [HttpPost]
-    public async Task<IActionResult> UploadCV(IFormFile cvFile)
-    {
-        if (cvFile != null && cvFile.Length > 0)
+        public IActionResult Team()
         {
-            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/uploads", cvFile.FileName);
+            return View();
+        }
+        public IActionResult Contact()
+        {
+            return View();
+        }
 
-            using (var stream = new FileStream(filePath, FileMode.Create))
+        [HttpGet]
+        public IActionResult UploadCV()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> UploadCV(IFormFile cvFile)
+        {
+            if (cvFile != null && cvFile.Length > 0)
             {
-                await cvFile.CopyToAsync(stream);
+                var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/uploads", cvFile.FileName);
+
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await cvFile.CopyToAsync(stream);
+                }
+
+                ViewBag.Message = "CV uploaded successfully!";
+            }
+            else
+            {
+                ViewBag.Message = "Please select a valid file.";
             }
 
-            ViewBag.Message = "CV uploaded successfully!";
+            return View();
         }
-        else
+
+        public IActionResult Privacy()
         {
-            ViewBag.Message = "Please select a valid file.";
+            return View();
         }
 
-        return View();
-    }
+        public IActionResult Resume()
+        {
+            var filepath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/resume/Manpreet_Singh_CV.pdf");
+            var bytes = System.IO.File.ReadAllBytes(filepath);
+            return File(bytes, "application/pdf");
+        }
 
-
-
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-
-    public IActionResult Resume()
-    {
-        var filepath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/resume/Manpreet_Singh_CV.pdf");
-        var bytes = System.IO.File.ReadAllBytes(filepath);
-        return File(bytes, "application/pdf");
-    }
-
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
     }
 }
+

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eU6YNZwYghAyOD2voOXlulWF36emv+rViyRuATiaXp0=",
+  "Hash": "chOTegyiMT6rXUzVkgFd0By8gOZvP0qUlUybnHNFQvs=",
   "Source": "MSCodeworks.Web",
   "BasePath": "_content/MSCodeworks.Web",
   "Mode": "Default",
@@ -1382,174 +1382,6 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mpyigms19s",
-      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "73kdqttayv",
-      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ve6x09088i",
-      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "4gxs3k148c",
-      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9b9oa1qrmt",
-      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fctod5rc9n",
-      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
       "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
@@ -2054,6 +1886,174 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mpyigms19s",
+      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "73kdqttayv",
+      "Integrity": "DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ve6x09088i",
+      "Integrity": "SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gxs3k148c",
+      "Integrity": "VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9b9oa1qrmt",
+      "Integrity": "22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fctod5rc9n",
+      "Integrity": "j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
       "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
@@ -2327,12 +2327,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2341,19 +2341,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fwhahm2icz",
-      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
+      "Fingerprint": "47otxtyo56",
+      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2362,19 +2362,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dd6z7egasc",
-      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
+      "Fingerprint": "4v8eqarkd7",
+      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2383,32 +2383,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5pze98is44",
-      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
+      "Fingerprint": "356vix0kms",
+      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mlv21k5csn",
-      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -2516,12 +2495,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2530,19 +2509,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "47otxtyo56",
-      "Integrity": "wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=",
+      "Fingerprint": "fwhahm2icz",
+      "Integrity": "H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2551,19 +2530,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4v8eqarkd7",
-      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "Fingerprint": "dd6z7egasc",
+      "Integrity": "/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2572,11 +2551,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "356vix0kms",
-      "Integrity": "16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=",
+      "Fingerprint": "5pze98is44",
+      "Integrity": "OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlv21k5csn",
+      "Integrity": "hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
       "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\resume\\Manpreet_Singh_CV.pdf",
@@ -2768,12 +2768,12 @@
       "OriginalItemSpec": "wwwroot\\vendor\\aos\\aos.js.map"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap/css/bootstrap#[.{fingerprint}]?.css",
+      "RelativePath": "vendor/bootstrap-icons/bootstrap-icons#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2782,19 +2782,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "p55kxrg9h7",
-      "Integrity": "HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8=",
+      "Fingerprint": "0c1d32ph4u",
+      "Integrity": "AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap/css/bootstrap.css#[.{fingerprint}]?.map",
+      "RelativePath": "vendor/bootstrap-icons/bootstrap-icons#[.{fingerprint}]?.json",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2803,19 +2803,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8cox5vu1ao",
-      "Integrity": "iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg=",
+      "Fingerprint": "gnxria04pl",
+      "Integrity": "HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
+      "RelativePath": "vendor/bootstrap-icons/bootstrap-icons.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2824,19 +2824,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xb7x6ncoc7",
-      "Integrity": "oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=",
+      "Fingerprint": "zqltuijmmh",
+      "Integrity": "pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "RelativePath": "vendor/bootstrap-icons/bootstrap-icons#[.{fingerprint}]?.scss",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2845,19 +2845,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tutx64jgg7",
-      "Integrity": "ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw=",
+      "Fingerprint": "yugof1ax1l",
+      "Integrity": "Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap/css/bootstrap.rtl#[.{fingerprint}]?.css",
+      "RelativePath": "vendor/bootstrap-icons/fonts/bootstrap-icons#[.{fingerprint}]?.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2866,19 +2866,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "hxp4vtxi0l",
-      "Integrity": "uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA=",
+      "Fingerprint": "7dn3lb52f1",
+      "Integrity": "9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
       "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
+      "RelativePath": "vendor/bootstrap-icons/fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2887,53 +2887,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "t3bs2ot4ur",
-      "Integrity": "OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw=",
+      "Fingerprint": "od0yn6f0e3",
+      "Integrity": "bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "f6pbo7ldz7",
-      "Integrity": "N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "np1xq4o4ct",
-      "Integrity": "FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
       "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
@@ -3440,6 +3398,174 @@
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "vendor/bootstrap/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p55kxrg9h7",
+      "Integrity": "HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "vendor/bootstrap/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8cox5vu1ao",
+      "Integrity": "iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "vendor/bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xb7x6ncoc7",
+      "Integrity": "oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "vendor/bootstrap/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tutx64jgg7",
+      "Integrity": "ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "vendor/bootstrap/css/bootstrap.rtl#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hxp4vtxi0l",
+      "Integrity": "uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t3bs2ot4ur",
+      "Integrity": "OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f6pbo7ldz7",
+      "Integrity": "N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "MSCodeworks.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
+      "BasePath": "_content/MSCodeworks.Web",
+      "RelativePath": "vendor/bootstrap/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "np1xq4o4ct",
+      "Integrity": "FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
       "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "MSCodeworks.Web",
       "SourceType": "Discovered",
@@ -3690,132 +3816,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap-icons/bootstrap-icons#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "0c1d32ph4u",
-      "Integrity": "AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap-icons/bootstrap-icons#[.{fingerprint}]?.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "gnxria04pl",
-      "Integrity": "HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap-icons/bootstrap-icons.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "zqltuijmmh",
-      "Integrity": "pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap-icons/bootstrap-icons#[.{fingerprint}]?.scss",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "yugof1ax1l",
-      "Integrity": "Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap-icons/fonts/bootstrap-icons#[.{fingerprint}]?.woff",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "7dn3lb52f1",
-      "Integrity": "9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
-    },
-    {
-      "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
-      "SourceId": "MSCodeworks.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\",
-      "BasePath": "_content/MSCodeworks.Web",
-      "RelativePath": "vendor/bootstrap-icons/fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "od0yn6f0e3",
-      "Integrity": "bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
       "Identity": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
@@ -9238,662 +9238,6 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "73kdqttayv"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536547"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8inm30yfxf"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mpyigms19s"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4gxs3k148c"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "536461"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9b9oa1qrmt"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162825"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fctod5rc9n"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "661035"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203803"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ve6x09088i"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
-        }
-      ]
-    },
-    {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
       "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
@@ -11862,6 +11206,662 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "73kdqttayv"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DRvWr0gangj5/5Q3DRn6ttzpcWDzl3OpHoAwAzNDR5Q="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mpyigms19s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gxs3k148c"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "536461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VFvmi/ZSwQFmjS6Pry9B8zXeZ/GA168TXLyykDhNMZE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9b9oa1qrmt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-22wR6QTidoeiRZXp6zkRQyMSUb/FB+Av11jqmZJF6uU="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fctod5rc9n"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "661035"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j7uqK5VoTT4rUHMr911QEU5Sa94lR3uh9E28XBMlzrM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203803"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ve6x09088i"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ2mKaD4A+b+HIvttwl+TvLFnVy8o8/X40j+EKVwyvY="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
@@ -12928,8 +12928,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12938,7 +12938,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "288580"
+          "Value": "19385"
         },
         {
           "Name": "Content-Type",
@@ -12946,253 +12946,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fwhahm2icz"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "288580"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5pze98is44"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89501"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dd6z7egasc"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89501"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137972"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1117"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -13206,21 +12960,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mlv21k5csn"
+          "Value": "47otxtyo56"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery/LICENSE.txt"
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
         }
       ]
     },
     {
-      "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13229,15 +12983,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1117"
+          "Value": "19385"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
+          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
         },
         {
           "Name": "Last-Modified",
@@ -13251,7 +13005,171 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "356vix0kms"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
         }
       ]
     },
@@ -13666,8 +13584,8 @@
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13676,7 +13594,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "288580"
         },
         {
           "Name": "Content-Type",
@@ -13684,11 +13602,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+          "Value": "Sun, 11 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13698,21 +13616,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "47otxtyo56"
+          "Value": "fwhahm2icz"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+          "Value": "lib/jquery/dist/jquery.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13721,7 +13639,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19385"
+          "Value": "288580"
         },
         {
           "Name": "Content-Type",
@@ -13729,11 +13647,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ=\""
+          "Value": "\"H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
+          "Value": "Sun, 11 May 2025 18:47:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13743,13 +13661,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wJQaJ0XynBE2fq6CexXXhxKu7fstVmQc7V2MHNTo+WQ="
+          "Value": "sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13758,89 +13676,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4v8eqarkd7"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 11 May 2025 18:47:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "137972"
         },
         {
           "Name": "Content-Type",
@@ -13848,7 +13684,171 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5pze98is44"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dd6z7egasc"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 May 2025 18:47:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZVI+w57FGwS9boYCZpH1ZSpcP7pYhLu4KtIUvPlZ4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
         },
         {
           "Name": "Last-Modified",
@@ -13862,21 +13862,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "356vix0kms"
+          "Value": "mlv21k5csn"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+          "Value": "lib/jquery/LICENSE.txt"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13885,7 +13885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1139"
+          "Value": "1117"
         },
         {
           "Name": "Content-Type",
@@ -13893,7 +13893,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s=\""
+          "Value": "\"hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\""
         },
         {
           "Name": "Last-Modified",
@@ -13907,7 +13907,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+          "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
         }
       ]
     },
@@ -14814,8 +14814,8 @@
       ]
     },
     {
-      "Route": "vendor/bootstrap/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Route": "vendor/bootstrap-icons/bootstrap-icons.0c1d32ph4u.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14824,7 +14824,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "280202"
+          "Value": "99556"
         },
         {
           "Name": "Content-Type",
@@ -14832,48 +14832,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8=\""
+          "Value": "\"AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap/css/bootstrap.css.8cox5vu1ao.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "680591"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14883,21 +14846,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8cox5vu1ao"
+          "Value": "0c1d32ph4u"
         },
         {
           "Name": "label",
-          "Value": "vendor/bootstrap/css/bootstrap.css.map"
+          "Value": "vendor/bootstrap-icons/bootstrap-icons.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg="
+          "Value": "sha256-AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs="
         }
       ]
     },
     {
-      "Route": "vendor/bootstrap/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Route": "vendor/bootstrap-icons/bootstrap-icons.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14906,19 +14869,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "680591"
+          "Value": "99556"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "\"iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg=\""
+          "Value": "\"AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14928,13 +14891,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg="
+          "Value": "sha256-AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs="
         }
       ]
     },
     {
-      "Route": "vendor/bootstrap/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Route": "vendor/bootstrap-icons/bootstrap-icons.gnxria04pl.json",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14943,19 +14906,64 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "232018"
+          "Value": "53043"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "application/json"
         },
         {
           "Name": "ETag",
-          "Value": "\"oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=\""
+          "Value": "\"HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gnxria04pl"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap-icons/bootstrap-icons.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap-icons/bootstrap-icons.json",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53043"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -14965,13 +14973,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg="
+          "Value": "sha256-HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA="
         }
       ]
     },
     {
-      "Route": "vendor/bootstrap/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Route": "vendor/bootstrap-icons/bootstrap-icons.min.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14980,19 +14988,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "589698"
+          "Value": "87008"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw=\""
+          "Value": "\"pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15002,13 +15010,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw="
+          "Value": "sha256-pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4="
         }
       ]
     },
     {
-      "Route": "vendor/bootstrap/css/bootstrap.min.css.tutx64jgg7.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Route": "vendor/bootstrap-icons/bootstrap-icons.min.zqltuijmmh.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15017,19 +15025,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "589698"
+          "Value": "87008"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw=\""
+          "Value": "\"pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15039,21 +15047,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tutx64jgg7"
+          "Value": "zqltuijmmh"
         },
         {
           "Name": "label",
-          "Value": "vendor/bootstrap/css/bootstrap.min.css.map"
+          "Value": "vendor/bootstrap-icons/bootstrap-icons.min.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw="
+          "Value": "sha256-pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4="
         }
       ]
     },
     {
-      "Route": "vendor/bootstrap/css/bootstrap.min.xb7x6ncoc7.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Route": "vendor/bootstrap-icons/bootstrap-icons.scss",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15062,109 +15070,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "232018"
+          "Value": "58496"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=\""
+          "Value": "\"Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xb7x6ncoc7"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap/css/bootstrap.p55kxrg9h7.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "280202"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p55kxrg9h7"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "279417"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15174,13 +15092,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA="
+          "Value": "sha256-Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78="
         }
       ]
     },
     {
-      "Route": "vendor/bootstrap/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Route": "vendor/bootstrap-icons/bootstrap-icons.yugof1ax1l.scss",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15189,19 +15107,154 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "680451"
+          "Value": "58496"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw=\""
+          "Value": "\"Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yugof1ax1l"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap-icons/bootstrap-icons.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap-icons/fonts/bootstrap-icons.7dn3lb52f1.woff",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7dn3lb52f1"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap-icons/fonts/bootstrap-icons.od0yn6f0e3.woff2",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "od0yn6f0e3"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15211,13 +15264,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw="
+          "Value": "sha256-9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU="
         }
       ]
     },
     {
-      "Route": "vendor/bootstrap/css/bootstrap.rtl.css.t3bs2ot4ur.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Route": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15226,246 +15279,29 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "680451"
+          "Value": "134044"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "font/woff2"
         },
         {
           "Name": "ETag",
-          "Value": "\"OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw=\""
+          "Value": "\"bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+          "Value": "Sat, 10 May 2025 07:05:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t3bs2ot4ur"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap/css/bootstrap.rtl.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap/css/bootstrap.rtl.hxp4vtxi0l.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "279417"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hxp4vtxi0l"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap/css/bootstrap.rtl.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232126"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "588895"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap/css/bootstrap.rtl.min.css.np1xq4o4ct.map",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "588895"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "np1xq4o4ct"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap/css/bootstrap.rtl.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap/css/bootstrap.rtl.min.f6pbo7ldz7.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "232126"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 03:37:46 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "f6pbo7ldz7"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap/css/bootstrap.rtl.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934="
+          "Value": "sha256-bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE="
         }
       ]
     },
@@ -17438,6 +17274,662 @@
       ]
     },
     {
+      "Route": "vendor/bootstrap/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.css.8cox5vu1ao.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "680591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8cox5vu1ao"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.css.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "680591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iOVBIosvU3mNOmT+3lmfUZx9T3toOFI6e3n4EsoeuDg="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.min.css.tutx64jgg7.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tutx64jgg7"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZZtq0Nmzl7sk+Q3F9pygl45FRGfKptlhXw/QGE48HKw="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.min.xb7x6ncoc7.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xb7x6ncoc7"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oxqX0LQclbvrsJt8IymkxnISn4Np2Wy2rY9jjoQlDEg="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.p55kxrg9h7.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280202"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p55kxrg9h7"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HaS5IZU87gl/79JQe/HHdGcEHZ2yjUADv8geyhNpoc8="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "680451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.rtl.css.t3bs2ot4ur.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "680451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3bs2ot4ur"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap/css/bootstrap.rtl.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OZneOKkgKQobHKfy9LPl9b8YcipamQ//05lJV7wMeKw="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.rtl.hxp4vtxi0l.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "279417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hxp4vtxi0l"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap/css/bootstrap.rtl.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uwDY9YCMdxKGFKy3dsW1feuaaAsF13dTokSvRAVsjRA="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "588895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.rtl.min.css.np1xq4o4ct.map",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "588895"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "np1xq4o4ct"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap/css/bootstrap.rtl.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FQ+BpzcV0efYXUpbNF1mkK0wdmaTygF5/dmsKJGV5+M="
+        }
+      ]
+    },
+    {
+      "Route": "vendor/bootstrap/css/bootstrap.rtl.min.f6pbo7ldz7.css",
+      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 06 May 2025 03:37:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f6pbo7ldz7"
+        },
+        {
+          "Name": "label",
+          "Value": "vendor/bootstrap/css/bootstrap.rtl.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N3jeiZjZ+jpz5o9JaZu+5sQh1JMTuacMThanKfmw934="
+        }
+      ]
+    },
+    {
       "Route": "vendor/bootstrap/js/bootstrap.bundle.js",
       "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "Selectors": [],
@@ -18418,498 +18910,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-QkP1fPCYPBMpsf2Oneb6HrXnjSoDIYbIzMVfitZBAFA="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/bootstrap-icons.0c1d32ph4u.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "99556"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0c1d32ph4u"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap-icons/bootstrap-icons.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/bootstrap-icons.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "99556"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-AEMichyFVzMXWbxt2qy7aJsPBxXWiK7IK9BW0tW1zDs="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/bootstrap-icons.gnxria04pl.json",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53043"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gnxria04pl"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap-icons/bootstrap-icons.json"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/bootstrap-icons.json",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "53043"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/json"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HJ3h46qqG7pZZ7rH6tp5R1CC3Ya0pBlV5Y08JWmyPPA="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/bootstrap-icons.min.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "87008"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/bootstrap-icons.min.zqltuijmmh.css",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "87008"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zqltuijmmh"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap-icons/bootstrap-icons.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pdY4ejLKO67E0CM2tbPtq1DJ3VGDVVdqAR6j3ZwdiE4="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/bootstrap-icons.scss",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "58496"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/bootstrap-icons.yugof1ax1l.scss",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "58496"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yugof1ax1l"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap-icons/bootstrap-icons.scss"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Wl4+JO5suK8BkJCDXbUj6Pnj1guy6s8mdASQtqRdD78="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/fonts/bootstrap-icons.7dn3lb52f1.woff",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "180288"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/font-woff"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7dn3lb52f1"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/fonts/bootstrap-icons.od0yn6f0e3.woff2",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "134044"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/woff2"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "od0yn6f0e3"
-        },
-        {
-          "Name": "label",
-          "Value": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff2"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "180288"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/font-woff"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9VUTt7WRy4SjuH/w406iTUgx1v7cIuVLkRymS1tUShU="
-        }
-      ]
-    },
-    {
-      "Route": "vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
-      "AssetFile": "C:\\Users\\Manpreet\\source\\repos\\MSCodeworks.Web\\MSCodeworks.Web\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "134044"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/woff2"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 10 May 2025 07:05:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bHVxA2ShylYEJncW9tKJl7JjGf2weM8R4LQqtm/y6mE="
         }
       ]
     },

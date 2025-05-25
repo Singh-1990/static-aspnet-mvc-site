@@ -220,10 +220,10 @@ C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MSCodeworks.Web.props
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MSCodeworks.Web.props
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\MSCodewo.06CFA5DB.Up2Date
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\MSCodeworks.Web.dll
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\refint\MSCodeworks.Web.dll
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\MSCodeworks.Web.pdb
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\MSCodeworks.Web.genruntimeconfig.cache
 C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\ref\MSCodeworks.Web.dll
+C:\Users\Manpreet\source\repos\MSCodeworks.Web\MSCodeworks.Web\obj\Debug\net6.0\MSCodeworks.Web.sourcelink.json
